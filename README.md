@@ -1,11 +1,7 @@
-👋 Hi, I’m MemeFrug
+👋 Hi,
 
-I love to code and create games for others to play
+I'm currently studying CS, and have a dream to engineer video game graphics systems to lower the entry-requirement for gaming,
+Do not hesitate to reach out for any questions 😁
 
-Im very good at html, javascript and lua,
-
-I have some repositorys private, so if you would like to have access to them,
-Just let me know 👍
-
-I hope you have a wonderful day,
+Best Regards,
 MemeFrug
